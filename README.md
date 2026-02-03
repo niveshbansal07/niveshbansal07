@@ -73,6 +73,8 @@
 
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=niveshbansal07&theme=dark)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=niveshbansal07&theme=dark)
+
 <!--![](https://github-readme-stats.vercel.app/api?username=niveshbansal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niveshbansal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
