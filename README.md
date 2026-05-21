@@ -16,7 +16,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-111111?logo=dev.to&logoColor=white)](https://dev.to/niveshbansal07)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/niveshbansal07)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?logo=github&logoColor=white)](https://github.com/niveshbansal07)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/niveshbansall/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/niveshbansal_/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niveshbansal52@gmail.com)
 
 
